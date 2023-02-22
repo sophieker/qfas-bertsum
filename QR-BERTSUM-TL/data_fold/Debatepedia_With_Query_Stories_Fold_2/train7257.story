@@ -1,0 +1,8 @@
+<s> dominion : do humans not have dominion over animals ( and a right to eat them ) ? <eos>
+
+<s> genesis # : # - `` and gods blessed them and gods said unto them be productive and multiply and replenishing the earth and subdue it : and have dominion over the fish of the sea and over the fowl of the air and over every living thing that moveth upon the earth . '' this meaning that humans have the right to subdue and control animals for man 's own purposes . <eos>
+
+@highlight
+
+<s> beings have kingdom over animals with a right to exploit them <eos>
+

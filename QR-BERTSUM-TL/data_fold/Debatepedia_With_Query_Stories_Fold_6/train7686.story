@@ -1,0 +1,8 @@
+<s> environment : is the three gorges dam benefiting the environment ? <eos>
+
+<s> the creation of the dam and associated reservoir has impacts both upstream from the dam and downstream . it will change the temperature of the water the velocity and direction of the river flows the area climate so that affects # species of fish and # uncommon or endangered species in this area . <eos>
+
+@highlight
+
+<s> the sneh will kill waters lives in the yangze river <eos>
+

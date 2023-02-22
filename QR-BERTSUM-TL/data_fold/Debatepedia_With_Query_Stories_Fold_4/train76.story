@@ -1,0 +1,8 @@
+<s> economics : is veal farming an economically important industry ? <eos>
+
+<s> `` what is wrong with veal ? '' . animal defenders international . retrieved 4.07.08 - `` in addition to the unnecessary cruelty that millions of cows calves and cattle must face there are other factors involved in meat/dairy production to consider . most of the world s agricultural land ( 4/5ths ) is used to grow food for farm animals . a cow has to eat 10lbs of grain for every 1lb of beef produced . the world s cattle consume an amount of food equal to the calorie needs of double the population of the planet ! '' <eos>
+
+@highlight
+
+<s> veal and cattle production is a generally inefficient use of land <eos>
+

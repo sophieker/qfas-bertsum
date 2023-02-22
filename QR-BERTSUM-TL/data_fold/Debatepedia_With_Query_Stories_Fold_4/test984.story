@@ -1,0 +1,8 @@
+<s> human rights : does treaties strengthen migrant human rights ? <eos>
+
+<s> some people considering access to the internet to be a `` human right '' . others considering the ability to cross border freely as a `` human right '' . the definition of human rights is constantly expanding . it is for this reason that accepting a migrant workers treaty that protects a migrant 's `` human rights '' is risky . it could mean that these migrant 's rights are interpreted by some in the un to be broader and more inclusive than a state thinks they should be and makes it possible that these rights only expand over time . <eos>
+
+@highlight
+
+<s> human rights are subject to interpretation under migrants workers treaty . <eos>
+
